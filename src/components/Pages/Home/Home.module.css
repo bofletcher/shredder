@@ -1,0 +1,18 @@
+.homeMain{
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  justify-content: top;
+  align-items: center;
+  height: calc(100vh - 3.5em);
+  background-color: #121212;
+  color: #F1EC40;
+}
+
+.profileImage {
+  width: 5em;
+}
+
+.displayName {
+  color: #F1EC40
+}

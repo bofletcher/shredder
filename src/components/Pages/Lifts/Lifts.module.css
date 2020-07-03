@@ -1,0 +1,12 @@
+.liftsMain {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  height: calc(100vh - 3.5em);
+  background-color: #121212;
+  color: #F1EC40;
+}
+
+h1 {
+  color: #F1EC40;
+}

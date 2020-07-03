@@ -1,0 +1,23 @@
+.lift {
+  background-color:black;
+  border: solid 1px yellow;
+  padding: .5em;
+  margin: .5em;
+}
+
+.liftTitle {
+  text-decoration: underline;
+  
+}
+
+.liftImage{
+  max-height: 7em;
+}
+
+.addButton {
+  border: solid 1px yellow;
+  background: none;
+  font-family: 'Audiowide', cursive;
+  color: yellow;
+  cursor: pointer;
+}
